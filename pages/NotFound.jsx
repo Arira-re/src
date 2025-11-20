@@ -7,6 +7,7 @@ export default function NotFound() {
             <h2>Not Found</h2>
             <p>お探しのページは見つかりませんでした<br />もしくはページが作られてないからかも…</p>
             <Link to="/">HOME</Link>
+            <p>test</p>
         </main>
     );
 }
